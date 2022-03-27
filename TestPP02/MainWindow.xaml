@@ -34,5 +34,6 @@
         <Viewbox Height="20" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
             <RadioButton GroupName="Tarif" Name="Radio2" >Тариф 2</RadioButton>
         </Viewbox>
+        <Image Grid.Column="2" Grid.Row="2" Source="Resources/saab3000.jpg"/>
     </Grid>
 </Window>
